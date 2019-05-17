@@ -11,7 +11,10 @@ dependencies:
   flutter:
     sdk: flutter
 
-  xservice_kit: ^0.0.27
+  xservice_kit:
+    git:
+      url: 'http://publicdev:123456abc@192.168.23.130/mobile/xservice_kit-0.0.29.git'
+      ref: '0bb0cee1c7bc5f1ab21870b3751995a4ae1500f5'
 
 
 # For information on the generic Dart part of this file, see the
